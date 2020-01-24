@@ -1,6 +1,7 @@
 package dataStructures.com.practice;
 
 import java.util.Arrays;
+import java.util.*;
 
 public class ContigiousNumbers {
   
