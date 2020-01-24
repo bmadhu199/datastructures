@@ -1,13 +1,12 @@
 package dataStructures.com.stack;
 
 public class Stack {
-  
-  
+    
      final int MAX = 1000; 
     int top =-1;
     int[]  arr = new int[MAX];
   
-
+   // This function checks if stack is full
     boolean isFull(Stack stack)
     {
        if(stack.top < MAX ) return false;
