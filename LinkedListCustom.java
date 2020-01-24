@@ -2,7 +2,7 @@ package dataStructures.com.LinkedList;
 
 public class LinkedListCustom {
   
-  
+//comment  
   Node head;
 
   static class Node {
